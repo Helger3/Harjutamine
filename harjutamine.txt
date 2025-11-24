@@ -1,2 +1,6 @@
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Seda kasutavad programmerijad, õpilased jne.
+
+GitHubi saan kasutada näiteks programmide, skriptide ja blocklistide loomiseks.
+
+GitHubi arendamine algas 2007. aastal. GitHubi veebisait avalikustati aastal 2008.
